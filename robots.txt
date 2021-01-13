@@ -1,0 +1,42 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Allow:
+Allow: /maps/api/js/AuthenticationService.Authenticate
+Allow: /maps/api/js/QuotaService.RecordEvent
+Allow: /maps.googleapis.com/maps/api/js/AuthenticationService.Authenticate?1shttps%3A%2F%2Fwww.google.com%2Fmaps%2Fembed%2Fv1%2Fplace%3Fkey%3DAIzaSyA0Dx_boXQiwvdz8sJHoYeZNVTdoWONYkU%26q%3Dplace_id%3AEi4xNTA1IFcgQXZlbnVlIEogIzIwMywgTGFuY2FzdGVyLCBDQSA5MzUzNCwgVVNB&2sgoogle-maps-embed&callback=_xdc_._1s5dnf&token=81124
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: MSNBot
+Disallow: 
+User-agent: Slurp
+Disallow: 
+User-agent: Teoma
+Disallow: 
+User-agent: Gigabot
+Disallow: 
+User-agent: Robozilla
+Disallow: 
+User-agent: Nutch
+Disallow: 
+User-agent: ia_archiver
+Disallow: 
+User-agent: baiduspider
+Disallow: 
+User-agent: naverbot
+Disallow: 
+User-agent: yeti
+Disallow: 
+User-agent: yahoo-mmcrawler
+Disallow: 
+User-agent: psbot
+Disallow: 
+User-agent: yahoo-blogs/v3.9
+Disallow: 
+Sitemap: http://www.momtenegromft.com/sitemap.xml
+
+

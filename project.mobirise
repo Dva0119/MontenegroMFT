@@ -1,0 +1,1685 @@
+{
+  "settings": {
+    "name": "MontenegroMFT",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#9c9c9c",
+        "#333333",
+        "#3c3c3c",
+        "#fbd2c8"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.5.4",
+    "uniqCompNum": 97,
+    "versionPublish": "4.5.4",
+    "siteUrl": "http://www.montenegromft.com/",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": "",
+    "sitemapSwitcher": "on",
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\nDisallow: \nDisallow: /cgi-bin/\nAllow:\nAllow: /maps/api/js/AuthenticationService.Authenticate\nAllow: /maps/api/js/QuotaService.RecordEvent\nAllow: /maps.googleapis.com/maps/api/js/AuthenticationService.Authenticate?1shttps%3A%2F%2Fwww.google.com%2Fmaps%2Fembed%2Fv1%2Fplace%3Fkey%3DAIzaSyA0Dx_boXQiwvdz8sJHoYeZNVTdoWONYkU%26q%3Dplace_id%3AEi4xNTA1IFcgQXZlbnVlIEogIzIwMywgTGFuY2FzdGVyLCBDQSA5MzUzNCwgVVNB&2sgoogle-maps-embed&callback=_xdc_._1s5dnf&token=81124\nUser-agent: Googlebot\nDisallow: \nUser-agent: googlebot-image\nDisallow: \nUser-agent: googlebot-mobile\nDisallow: \nUser-agent: MSNBot\nDisallow: \nUser-agent: Slurp\nDisallow: \nUser-agent: Teoma\nDisallow: \nUser-agent: Gigabot\nDisallow: \nUser-agent: Robozilla\nDisallow: \nUser-agent: Nutch\nDisallow: \nUser-agent: ia_archiver\nDisallow: \nUser-agent: baiduspider\nDisallow: \nUser-agent: naverbot\nDisallow: \nUser-agent: yeti\nDisallow: \nUser-agent: yahoo-mmcrawler\nDisallow: \nUser-agent: psbot\nDisallow: \nUser-agent: yahoo-blogs/v3.9\nDisallow: \nSitemap: http://www.momtenegromft.com/sitemap.xml\n\n\n",
+    "robotsSwitcher": "on"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "MontenegroMFT - Mental Health Therapy",
+        "meta_descr": "MontenegroMFT specializes in maternal wellbeing and therefore integrates complementary methodologies such as Infant Massage, Clinical Hypnotherapy, in addition to more commonly used methodologies such as Cognitive Behavioral Therapy to offer a highly personalized approach which is always tailored to each individual client. (818) 275-4957",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#7c706b",
+            "overlayOpacity": "0.3"
+          },
+          "title": "MontenegroMFT",
+          "text": "Offering Individual, Couples &amp; Family Therapy remotely throughout the state of California and in person within the Antelope Valley area. Specializing in First Responders, Healthcare Providers, Trauma &amp; Maternal Mental Health.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"https://search.dca.ca.gov/details/2001/LMFT/86397/e0cff1eb5065b2065a8cf107d857869e\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BBS Lic. #86397</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"tel:(818) 275-4957\" data-toolbar=\"-mbrBtnMove\">(818) 275-4957</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-4",
+          "_styles": {
+            "H1": {
+              "font-size": "60px",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "color": "#000000"
+            },
+            ".btn": {
+              "font-size": "16px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#000000"
+            }
+          },
+          "_customCSS": ".mbr-buttons__btn {\n    background-color:#fbd2c8\n}"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#000000",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#000000",
+              "font-size": "16px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".btn": {
+              "font-size": "16px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "About Us<br>",
+          "text": "<p>Welcome and thank you for allowing us to be part of your journey toward greater self-understanding!  \n</p><p>MontenegroMFT specializes in treating trauma, first responders, healthcare professions and maternal wellbeing through the use of <a href=\"https://vimeo.com/186019577\" target=\"_blank\">Brainspotting</a>. Additionally used approach modalities include&nbsp;Cognitive Behavioral Therapy and Clinical Hypnotherapy in order to offer a highly personalized approach which is always tailored to each individual client's needs.<br></p><p>MontenegroMFT’s therapeutic approach is to provide unconditional support and practical feedback to help clients effectively address personal life challenges at work, home and/or school.<br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"index.html#msg-box3-o\" data-toolbar=\"-mbrBtnMove\">Our Framework</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"Clinician.html#header4-15\" data-toolbar=\"-mbrBtnMove\">Our Clinicians</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-6",
+          "_customCSS": ".mbr-buttons__btn {\n    background-color:#fbd2c8\n}"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": false,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "Maternal Mental Health",
+                "contentAlign": "left",
+                "text": "<b><i>You can feel better, We can help.</i></b> \n<br>It's often difficult to see or know how healing will happen. We work together to figure that out and get you back to feeling how you want to feel. You don't have to struggle, and you certainly don't have to get through this alone. &nbsp;<br><br>From trying to conceive, adjusting to pregnancy, coping with the loss of pregnancy, traumatic birth, and postpartum issues such as postpartum depression and anxiety, we are here to help you and your family. &nbsp;&nbsp;<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true,
+                "overlayOpacity": "0.7",
+                "overlayColor": "#ffffff"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "Individual, Couple, and Family Therapy",
+                "contentAlign": "center",
+                "text": "<i><b>Life is not what it's supposed to be. It is what it is. The way you cope with it is what makes the difference. -Virginia Satir </b></i><br>We know how difficult it may be to search and find someone that you are able to entrust with whatever difficulty your are currently undergoing. Allow us to assist you on an individual, family, or couple to address some of life's curveballs such as depression, anxiety, ADHD, bipolar disorder, phase of life issues, intimate partner difficulties, divorce, coping with separation, grief and loss, professional burn-out, vicarious trauma, PTSD, nurture change, build resilience and develop a more balanced living lifestyle.\n<br>\n<br>We belief that regardless of the origin of the problem, and regardless of whether you consider it an \"individual\" or \"family\" issue, together, we can explore and achieve the deepest levels of healing, self-understanding to reach greater empathy, deeper connections, and growth.&nbsp;<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true,
+                "overlayOpacity": "0.7",
+                "overlayColor": "#ffffff"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "Immigration Psychological Evaluations",
+                "contentAlign": "right",
+                "text": "<b><i>You can live better, We can help.</i></b> \n<br>If you are an individual who is currently in immigration proceedings in the United States, you may benefit from an immigration psychological evaluation. An immigration psychological evaluation can add  tremendous value to your immigration case as it examines the psychological impact of trauma that may have occurred in your native country and may furthermore occur if you were to return to your native country.\n<br>\n<br>The psychological evaluation can be a powerful piece of evidence to demonstrate and support the extreme hardship that qualifying relatives may suffer if he or she is separated from the applicant.&nbsp;<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true,
+                "overlayOpacity": "0.7",
+                "overlayColor": "#ffffff"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-l",
+          "_styles": {
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px",
+              "color": "#000000"
+            },
+            "H1": {
+              "font-size": "25px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".btn": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": true,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Our Framework",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mo</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"Framework.html#msg-box3-1i\" data-toolbar=\"-mbrBtnMove\">Sessions</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"Framework.html#msg-box3-1j\" data-toolbar=\"-mbrBtnMove\">Contacting Us</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"Framework.html#msg-box3-1k\" data-toolbar=\"-mbrBtnMove\">Confidentiality</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"Framework.html#msg-box3-1l\" data-toolbar=\"-mbrBtnMove\">Reschedule</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-o",
+          "_customCSS": ".mbr-buttons__btn {\n    background-color:#fbd2c8\n}"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5,
+            "counters": false,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "SHARE THIS PAGE!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-24"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".btn": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px"
+            },
+            ".mbr-article P": {
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": true,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Payments",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Pay Co-Pay Online</p><p>$15&nbsp; &nbsp; $20&nbsp; &nbsp; $30</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"Payment.html#msg-box3-2a\" data-toolbar=\"-mbrBtnMove\">Fees</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"Payment.html#msg-box3-2b\" data-toolbar=\"-mbrBtnMove\">Balance</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"Payment.html#msg-box3-2c\" data-toolbar=\"-mbrBtnMove\">Refunds</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"Payment.html#msg-box3-2d\" data-toolbar=\"-mbrBtnMove\">Insurance</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1q",
+          "_customCSS": ".mbr-buttons__btn {\n    background-color:#fbd2c8\n}"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "3166 East Palmdale Blvd\nPalmdale, CA 93550",
+              "placeId": "",
+              "state": "error",
+              "stateDetails": "Request denied"
+            }
+          },
+          "text1": "<strong>OFFICE ADDRESS</strong><br>3166 East Palmdale Blvd, Unit#104<br>Palmdale, CA 93550<br>(Office Visits By Appointment Only)<br><br><b>MAILING ADDRESS</b>\n<br>P.O. Box &nbsp;900665<br>Palmdale, CA&nbsp;93590-0665<br><br>\n<strong>CONTACTS</strong><br>\nEm:&nbsp;<a href=\"mailto:Natalie@MontenegroMFT.com\" class=\"text-danger\">Natalie@MontenegroMFT.com</a><br>\nPh: <a href=\"tel:(818) 275-4957\" class=\"text-danger\">(818) 275-4957</a><a href=\"tel:(818) 275-4957\" class=\"text-danger\"><br></a><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>- <a href=\"https://search.dca.ca.gov/\" target=\"_blank\" class=\"text-danger\">DCA License Search</a></li><li>- <a href=\"http://www.bbs.ca.gov/\" target=\"_blank\" class=\"text-danger\">Board of Behavioral Science (BBS)</a></li><li>- <a href=\"http://www.postpartum.net/\" target=\"_blank\" class=\"text-danger\">Postpartum Support International</a></li><li>- <a href=\"https://infantmassageusa.org/\" target=\"_blank\" class=\"text-danger\">Infant Massage USA</a></li><li>- <a href=\"http://www.apa.org/index.aspx\" target=\"_blank\" class=\"text-danger\">American Psychiatric Association</a></li><li>- <a href=\"https://suicidepreventionlifeline.org/\" target=\"_blank\" class=\"text-danger\">National Suicide Prevention Lifeline</a></li><li>- <a href=\"http://www.caloes.ca.gov/cal-oes-divisions/public-safety-communications/ca-9-1-1-emergency-communications-branch\" target=\"_blank\" class=\"text-danger\">CA 911 Emergency Communications</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-5",
+          "_styles": {
+            "P": {
+              "font-size": "19px",
+              "color": "#ffffff",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            },
+            "UL": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "19px"
+            }
+          }
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#fbd2c8",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
+            },
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-4\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-6\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-l\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-1q\">PAYMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html#header4-t\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"Contact.html#form1-1a\">Contact Us</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#fbd2c8"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#fac2b5"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mft-3-logo-png-192x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Natalie Montenegro Marriage and Family Therapy, Inc.",
+              "link": "#top",
+              "title": "MontenegroMFT"
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html#header4-4\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MontenegroMFT</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-e"
+        }
+      ]
+    },
+    "Clinician.html": {
+      "settings": {
+        "meta_descr": "Natalie, founder and CEO of MontenegroMFT, is a licensed marriage and family therapist that has been involved in the mental health field for more than 10 years.  (818) 275-4957",
+        "title": "MontenegroMFT - Marriage and Family Therapists",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#7c706b",
+            "overlayOpacity": "0.3"
+          },
+          "title": "MontenegroMFT",
+          "text": "Our Maternal Mental Health &amp; Psychotherapy&nbsp;Clinicians",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"https://search.dca.ca.gov/details/2001/LMFT/86397/e0cff1eb5065b2065a8cf107d857869e\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BBS Lic. #86397</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"tel:(818) 275-4957\" data-toolbar=\"-mbrBtnMove\">(818) 275-4957</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "font-size": "60px",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "color": "#000000"
+            },
+            ".btn": {
+              "font-size": "16px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header4-15",
+          "_customCSS": ".mbr-buttons__btn {\n    background-color:#fbd2c8\n}"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-864x1080.jpg",
+              "link": "",
+              "alt": "Antelope Valley Therapist",
+              "title": "Natalie Montenegro Marriage and Family Therapy"
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Natalie Montenegro, LMFT, MBA.",
+          "text": "<p>Natalie, founder and CEO of <i>Natalie Montenegro Marriage and Family Therapy, Inc.</i> <i>(DBA: <b>MontenegroMFT</b>)</i>, is a bilingual (English/Spanish), licensed marriage and family therapist that has been involved in the mental health field since 2007.&nbsp;\n</p><p></p><p>\nNatalie completed her undergraduate work at the University of Redlands and worked for the AVUHSD as a substitute teacher while she completed her Master's in Psychology, emphasizing in Marriage and Family Therapy at Phillips Graduate University. After graduating, Natalie immersed herself in community mental health working with various populations including adoption/foster families, families struggling with addiction and trauma, families struggling with acculturation difficulties, families struggling with relational difficulties such as divorce, and families with children suffering from co-occurring mental health conditions such as intellectual disabilities and autism. </p><p>In 2015, Natalie returned to school and completed her MBA from Brandman University. Natalie was raised in the Antelope Valley and takes pride in being able to offer hope to her community.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "24px"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#000000",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"mailto:n.montenegromft@gmail.com\" data-toolbar=\"-mbrBtnMove\">Email Natalie</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"index.html#content5-6\" data-toolbar=\"-mbrBtnMove\">Back</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-h",
+          "_customCSS": ".mbr-buttons__btn {\n    background-color:#fbd2c8\n}"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "3166 East Palmdale Blvd\nPalmdale, CA 93550",
+              "placeId": "",
+              "state": "error",
+              "stateDetails": "Request denied"
+            }
+          },
+          "text1": "<strong>OFFICE ADDRESS</strong><br>3166 East Palmdale Blvd, Unit#104<br>Palmdale, CA 93550<br>(Office Visits By Appointment Only)<br><br><b>MAILING ADDRESS</b>\n<br>P.O. Box &nbsp;900665<br>Palmdale, CA&nbsp;93590-0665<br><br>\n<strong>CONTACTS</strong><br>\nEm:&nbsp;<a href=\"mailto:Natalie@MontenegroMFT.com\" class=\"text-danger\">Natalie@MontenegroMFT.com</a><br>\nPh: <a href=\"tel:(818) 275-4957\" class=\"text-danger\">(818) 275-4957</a><a href=\"tel:(818) 275-4957\" class=\"text-danger\"><br></a><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>- <a href=\"https://search.dca.ca.gov/\" target=\"_blank\" class=\"text-danger\">DCA License Search</a></li><li>- <a href=\"http://www.bbs.ca.gov/\" target=\"_blank\" class=\"text-danger\">Board of Behavioral Science (BBS)</a></li><li>- <a href=\"http://www.postpartum.net/\" target=\"_blank\" class=\"text-danger\">Postpartum Support International</a></li><li>- <a href=\"https://infantmassageusa.org/\" target=\"_blank\" class=\"text-danger\">Infant Massage USA</a></li><li>- <a href=\"http://www.apa.org/index.aspx\" target=\"_blank\" class=\"text-danger\">American Psychiatric Association</a></li><li>- <a href=\"https://suicidepreventionlifeline.org/\" target=\"_blank\" class=\"text-danger\">National Suicide Prevention Lifeline</a></li><li>- <a href=\"http://www.caloes.ca.gov/cal-oes-divisions/public-safety-communications/ca-9-1-1-emergency-communications-branch\" target=\"_blank\" class=\"text-danger\">CA 911 Emergency Communications</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "font-size": "19px",
+              "color": "#ffffff",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            },
+            "UL": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "19px"
+            }
+          },
+          "_anchor": "contacts2-f"
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#fbd2c8",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
+            },
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-4\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-6\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-l\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-1q\">PAYMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html#header4-t\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"Contact.html#form1-1a\">Contact Us</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#fbd2c8"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#fac2b5"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mft-3-logo-png-192x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Natalie Montenegro Marriage and Family Therapy, Inc.",
+              "link": "#top",
+              "title": "MontenegroMFT",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html#header4-4\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MontenegroMFT</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-g"
+        }
+      ]
+    },
+    "Framework.html": {
+      "settings": {
+        "title": "MontenegroMFT - Cognitive Behavioral Therapy",
+        "meta_descr": "We provide a non-judgemental, unbaised, open-minded, and understanding environment, so that we can work with each individual to help them build on their strengths and attain the personal growth they are committed to accomplishing. (818) 275-4957",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#7c706b",
+            "overlayOpacity": "0.3"
+          },
+          "title": "MontenegroMFT",
+          "text": "Our Business Framework",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://search.dca.ca.gov/details/2001/LMFT/86397/e0cff1eb5065b2065a8cf107d857869e\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BBS Lic. #86397</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"tel:(818) 275-4957\" data-toolbar=\"-mbrBtnMove\">(818) 275-4957</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "font-size": "60px",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "color": "#000000"
+            },
+            ".btn": {
+              "font-size": "16px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header4-1e"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "20px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px",
+              "color": "#000000"
+            },
+            ".mbr-header .mbr-header__subtext SPAN": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Sessions",
+          "meta": "<span style=\"font-style: normal;\">All sessions performed by us are typically 45-50 minutes in length depending on the focus of the work and your needs. Bi-weekly and monthly sessions are common for people working through acute issues. Generally, services will continue until we decide together that the work is complete. Payment is due at the time of service. If you have not taken care of your financial obligation within ninety days, I reserve the right to proceed with formal collection activity. <a href=\"index.html#msg-box3-o\" class=\"text-danger\">BACK</a></span><br>",
+          "text": "<p>Mo</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1i"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "20px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px",
+              "color": "#000000"
+            },
+            ".mbr-header .mbr-header__subtext SPAN": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Contacting Us",
+          "meta": "<span style=\"font-style: normal;\">You are welcome to contact us via phone. You will incur a pro-rated session fee for all calls lasting longer than 5 minutes. If we are unable to take your call, please leave a message and we will return your call as soon as possible. If you need to speak with us immediately, please leave a message indicating that your call is urgent and we will make every effort to return the call within 24 hours. We do not text regarding personal matters. Texting is reserved for scheduling and rescheduling appointments only. For all other issues, please refrain from texting and try to reach us via voice. Please remember, that if you are experiencing an emergency, you must call 911.&nbsp;<a href=\"index.html#msg-box3-o\" class=\"text-danger\">BACK</a></span><br>",
+          "text": "<p>Mo</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1j"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "20px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px",
+              "color": "#000000"
+            },
+            ".mbr-header .mbr-header__subtext SPAN": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Confidentiality",
+          "meta": "<span style=\"font-style: normal;\">We take confidentiality very seriously. Everything you disclose in our sessions is confidential per HIPAA standards. Confidentiality must be broken as required by law to disclose it (e.g., where there is reasonable suspicion of child, dependent adult or elder abuse, when you pose a danger to others or when you pose a danger to yourself). Should the necessity of releasing confidential information arise, we will make every reasonable effort to discuss this matter with you first; it is my preference to make any such disclosures together with you in person. If you have any questions about the exceptions mentioned above, or if you need any further clarification, we encourage you to discuss them with me directly. <a href=\"index.html#msg-box3-o\" class=\"text-danger\">BACK</a></span><br>",
+          "text": "<p>Mo</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1k"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "20px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px",
+              "color": "#000000"
+            },
+            ".mbr-header .mbr-header__subtext SPAN": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Reschedule or Missed Appointments",
+          "meta": "<span style=\"font-style: normal;\">In order to make our business sustainable we need all our time slots filled. We require 24 hours to cancel or reschedule. There are no exceptions to this policy. All first sessions shall be reserved with a credit card. The credit card will be charged if the first session is missed. Should you cancel or reschedule the session within 24 hours, your credit card will not be charged. Appointment times are reserved for you in advance. Once you book a day and time we can no longer give that time to someone else. Before making an appointment we ask that you please consider how serious you are about showing up. You may call, email or text to cancel or reschedule any day of the week or weekend. <a href=\"index.html#msg-box3-o\" class=\"text-danger\">BACK</a></span><br>",
+          "text": "<p>Mo</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#content5-6\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-left mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>Back</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1l"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "3166 East Palmdale Blvd\nPalmdale, CA 93550",
+              "placeId": "",
+              "state": "error",
+              "stateDetails": "Request denied"
+            }
+          },
+          "text1": "<strong>OFFICE ADDRESS</strong><br>3166 East Palmdale Blvd, Unit#104<br>Palmdale, CA 93550<br>(Office Visits By Appointment Only)<br><br><b>MAILING ADDRESS</b>\n<br>P.O. Box &nbsp;900665<br>Palmdale, CA&nbsp;93590-0665<br><br>\n<strong>CONTACTS</strong><br>\nEm:&nbsp;<a href=\"mailto:Natalie@MontenegroMFT.com\" class=\"text-danger\">Natalie@MontenegroMFT.com</a><br>\nPh: <a href=\"tel:(818) 275-4957\" class=\"text-danger\">(818) 275-4957</a><a href=\"tel:(818) 275-4957\" class=\"text-danger\"><br></a><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>- <a href=\"https://search.dca.ca.gov/\" target=\"_blank\" class=\"text-danger\">DCA License Search</a></li><li>- <a href=\"http://www.bbs.ca.gov/\" target=\"_blank\" class=\"text-danger\">Board of Behavioral Science (BBS)</a></li><li>- <a href=\"http://www.postpartum.net/\" target=\"_blank\" class=\"text-danger\">Postpartum Support International</a></li><li>- <a href=\"https://infantmassageusa.org/\" target=\"_blank\" class=\"text-danger\">Infant Massage USA</a></li><li>- <a href=\"http://www.apa.org/index.aspx\" target=\"_blank\" class=\"text-danger\">American Psychiatric Association</a></li><li>- <a href=\"https://suicidepreventionlifeline.org/\" target=\"_blank\" class=\"text-danger\">National Suicide Prevention Lifeline</a></li><li>- <a href=\"http://www.caloes.ca.gov/cal-oes-divisions/public-safety-communications/ca-9-1-1-emergency-communications-branch\" target=\"_blank\" class=\"text-danger\">CA 911 Emergency Communications</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "font-size": "19px",
+              "color": "#ffffff",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            },
+            "UL": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "19px"
+            }
+          },
+          "_anchor": "contacts2-1o"
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#fbd2c8",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
+            },
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-4\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-6\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-l\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-1q\">PAYMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html#header4-t\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"Contact.html#form1-1a\">Contact Us</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#fbd2c8"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#fac2b5"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mft-3-logo-png-192x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Natalie Montenegro Marriage and Family Therapy, Inc.",
+              "link": "#top",
+              "title": "MontenegroMFT",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html#header4-4\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MontenegroMFT</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-1p"
+        }
+      ]
+    },
+    "Contact.html": {
+      "settings": {
+        "title": "MontenegroMFT - Immigration Psychological Evaluations",
+        "meta_descr": "MontenegroMFT’s therapeutic approach is to provide unconditional support and practical feedback to help clients effectively address personal life challenges at work, home and/or school.  (818) 275-4957",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 5
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#7c706b",
+            "overlayOpacity": "0.3"
+          },
+          "title": "MontenegroMFT",
+          "text": "PO Box 900665., Palmdale, CA&nbsp;93590-0665",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"mailto:n.montenegromft@gmail.com\" data-toolbar=\"-mbrBtnMove\">Natalie@MontenegroMFT.com</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"tel:(818) 275-4957\" data-toolbar=\"-mbrBtnMove\">(818) 275-4957</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "font-size": "60px",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "color": "#000000"
+            },
+            ".btn": {
+              "font-size": "16px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header4-t",
+          "_customCSS": ".mbr-buttons__btn {\n    background-color:#fbd2c8\n}"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Contact Form",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-link\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBMIT</a>",
+          "form": {
+            "action": "natalie@montenegromft.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name (First & Last)"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-1a",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px"
+            }
+          },
+          "_customCSS": ".mbr-buttons__btn {\n    background-color:#fbd2c8\n}"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "3166 East Palmdale Blvd\nPalmdale, CA 93550",
+              "placeId": "",
+              "state": "error",
+              "stateDetails": "Request denied"
+            }
+          },
+          "text1": "<strong>OFFICE ADDRESS</strong><br>3166 East Palmdale Blvd, Unit#104<br>Palmdale, CA 93550<br>(Office Visits By Appointment Only)<br><br><b>MAILING ADDRESS</b>\n<br>P.O. Box &nbsp;900665<br>Palmdale, CA&nbsp;93590-0665<br><br>\n<strong>CONTACTS</strong><br>\nEm:&nbsp;<a href=\"mailto:Natalie@MontenegroMFT.com\" class=\"text-danger\">Natalie@MontenegroMFT.com</a><br>\nPh: <a href=\"tel:(818) 275-4957\" class=\"text-danger\">(818) 275-4957</a><a href=\"tel:(818) 275-4957\" class=\"text-danger\"><br></a><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>- <a href=\"https://search.dca.ca.gov/\" target=\"_blank\" class=\"text-danger\">DCA License Search</a></li><li>- <a href=\"http://www.bbs.ca.gov/\" target=\"_blank\" class=\"text-danger\">Board of Behavioral Science (BBS)</a></li><li>- <a href=\"http://www.postpartum.net/\" target=\"_blank\" class=\"text-danger\">Postpartum Support International</a></li><li>- <a href=\"https://infantmassageusa.org/\" target=\"_blank\" class=\"text-danger\">Infant Massage USA</a></li><li>- <a href=\"http://www.apa.org/index.aspx\" target=\"_blank\" class=\"text-danger\">American Psychiatric Association</a></li><li>- <a href=\"https://suicidepreventionlifeline.org/\" target=\"_blank\" class=\"text-danger\">National Suicide Prevention Lifeline</a></li><li>- <a href=\"http://www.caloes.ca.gov/cal-oes-divisions/public-safety-communications/ca-9-1-1-emergency-communications-branch\" target=\"_blank\" class=\"text-danger\">CA 911 Emergency Communications</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "font-size": "19px",
+              "color": "#ffffff",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            },
+            "UL": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "19px"
+            }
+          },
+          "_anchor": "contacts2-13"
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#fbd2c8",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
+            },
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-4\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-6\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-l\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-1q\">PAYMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html#header4-t\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"Contact.html#form1-1a\">Contact Us</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#fbd2c8"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#fac2b5"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mft-3-logo-png-192x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Natalie Montenegro Marriage and Family Therapy, Inc.",
+              "link": "#top",
+              "title": "MontenegroMFT",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html#header4-4\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MontenegroMFT</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-14"
+        }
+      ]
+    },
+    "Payment.html": {
+      "settings": {
+        "title": "MontenegroMFT - Clinical Hypnotherapy",
+        "meta_descr": "It's often difficult to see or know how healing will happen. We work together to figure that out and get you back to feeling how you want to feel. (818) 275-4957",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 4
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#7c706b",
+            "overlayOpacity": "0.3"
+          },
+          "title": "MontenegroMFT",
+          "text": "Our Payment Structure",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"https://search.dca.ca.gov/details/2001/LMFT/86397/e0cff1eb5065b2065a8cf107d857869e\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BBS Lic. #86397</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"tel:(818) 275-4957\" data-toolbar=\"-mbrBtnMove\">(818) 275-4957</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "font-size": "60px",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "color": "#000000"
+            },
+            ".btn": {
+              "font-size": "16px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header4-29",
+          "_customCSS": ".mbr-buttons__btn {\n    background-color:#fbd2c8\n}"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "20px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px",
+              "color": "#000000"
+            },
+            ".mbr-header .mbr-header__subtext SPAN": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Fees and Payment Options",
+          "meta": "<span style=\"font-style: normal;\">Individual Psychotherapy services are $150 per 45-50 minute session.</span><br><span style=\"font-style: normal;\">Couples and Family Therapy sessions are $175 per 50 minute session and $260 per 90 minute session.<br><br>We accept payment by credit card, cash or check (payable directly to MontenegroMFT) at the time of your visit. <a href=\"index.html#msg-box3-1q\" class=\"text-danger\">BACK</a><br></span><br>",
+          "text": "<p>Mo</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-2a"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "20px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px",
+              "color": "#000000"
+            },
+            ".mbr-header .mbr-header__subtext SPAN": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Balance Accumulation",
+          "meta": "<span style=\"font-style: normal;\">We are under legal and ethical obligation not to let a balance accumulate substantially. This is one of the reasons we require all sessions to be paid for at the time of service. If the balance rises substantially this can create a debtor-creditor relationship, which, together with the therapist-patient relationship, can constitute a dual relationship.\n<br>\n<br>Payment Options: We accept payment by credit card, cash or check (payable directly to MontenegroMFT) at the time of your visit. <a href=\"index.html#msg-box3-1q\" class=\"text-danger\">BACK</a></span><br>",
+          "text": "<p>Mo</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-2b"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "20px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px",
+              "color": "#000000"
+            },
+            ".mbr-header .mbr-header__subtext SPAN": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Refunds",
+          "meta": "<span style=\"font-style: normal;\">We do not provided any refunds for services rendered. <a href=\"index.html#msg-box3-1q\" class=\"text-danger\">BACK</a></span><br>",
+          "text": "<p>Mo</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-2c"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "20px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px",
+              "color": "#000000"
+            },
+            ".mbr-header .mbr-header__subtext SPAN": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Insurance",
+          "meta": "<span style=\"font-style: normal;\">I work out-of-network with most insurance companies, which means we require payment by credit card, cash or check at the time of your visit. You may then submit my invoice to your insurance company so that they can reimburse you. The amount you will be reimbursed depends on your insurance policy and out-of-network mental health benefits. A growing number of insurance companies reimburse for psychotherapy. To confirm that your insurance company will reimburse for my services, we recommend calling them by phone and asking: </span>\"Does my policy cover mental health visits with out-of-network providers?\"<span style=\"font-style: normal;\"> and </span>“What is my deductible for these visits and how much will I be reimbursed?”<span style=\"font-style: normal;\">\n<br>\n<br>To simplify the reimbursement process, we will email you an invoice every 4-8 sessions with insurance billing codes, which is a receipt for your visit. You can submit this invoice directly to your insurance company. If the process is unclear, we will be happy to guide you through it. Payment for services is payable directly to </span><b>MontenegroMFT</b><span style=\"font-style: normal;\"> as outlined above. Your insurance policy is a contract between you and your insurance company. Even when we have such a contract with your insurance company, if they do not cover services, you are responsible for the payment. A separate contract exists between you and us regarding services. </span><b>We do not place calls to insurance companies. The client must handle all communications related to insurance companies.</b><span style=\"font-style: normal;\"> ​ Please note that insurance companies vary widely in their policies regarding reimbursement for psychological treatment and therapy. </span><b>If you cancel or reschedule a session less than 24 hours in advance or miss an appointment you will be billed for this session and insurance cannot be billed for the cancelled/missed session.</b><span style=\"font-style: normal;\"> The client is responsible for verifying and understanding the limits of his/her coverage, as well as his/her co-payments and deductibles. <b>PLEASE KNOW AND UNDERSTAND YOUR INSURANCE COVERAGE PRIOR TO ATTENDING YOUR FIRST THERAPEUTIC SESSION. </b><a href=\"index.html#msg-box3-1q\" class=\"text-danger\">BACK</a></span><br>",
+          "text": "<p>Mo</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-2d"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "3166 East Palmdale Blvd\nPalmdale, CA 93550",
+              "placeId": "",
+              "state": "error",
+              "stateDetails": "Request denied"
+            }
+          },
+          "text1": "<strong>OFFICE ADDRESS</strong><br>3166 East Palmdale Blvd, Unit#104<br>Palmdale, CA 93550<br>(Office Visits By Appointment Only)<br><br><b>MAILING ADDRESS</b>\n<br>P.O. Box &nbsp;900665<br>Palmdale, CA&nbsp;93590-0665<br><br>\n<strong>CONTACTS</strong><br>\nEm:&nbsp;<a href=\"mailto:Natalie@MontenegroMFT.com\" class=\"text-danger\">Natalie@MontenegroMFT.com</a><br>\nPh: <a href=\"tel:(818) 275-4957\" class=\"text-danger\">(818) 275-4957</a><a href=\"tel:(818) 275-4957\" class=\"text-danger\"><br></a><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>- <a href=\"https://search.dca.ca.gov/\" target=\"_blank\" class=\"text-danger\">DCA License Search</a></li><li>- <a href=\"http://www.bbs.ca.gov/\" target=\"_blank\" class=\"text-danger\">Board of Behavioral Science (BBS)</a></li><li>- <a href=\"http://www.postpartum.net/\" target=\"_blank\" class=\"text-danger\">Postpartum Support International</a></li><li>- <a href=\"https://infantmassageusa.org/\" target=\"_blank\" class=\"text-danger\">Infant Massage USA</a></li><li>- <a href=\"http://www.apa.org/index.aspx\" target=\"_blank\" class=\"text-danger\">American Psychiatric Association</a></li><li>- <a href=\"https://suicidepreventionlifeline.org/\" target=\"_blank\" class=\"text-danger\">National Suicide Prevention Lifeline</a></li><li>- <a href=\"http://www.caloes.ca.gov/cal-oes-divisions/public-safety-communications/ca-9-1-1-emergency-communications-branch\" target=\"_blank\" class=\"text-danger\">CA 911 Emergency Communications</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "font-size": "19px",
+              "color": "#ffffff",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            },
+            "UL": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "19px"
+            }
+          },
+          "_anchor": "contacts2-2e"
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#fbd2c8",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
+            },
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-4\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-6\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-l\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-1q\">PAYMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html#header4-t\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"Contact.html#form1-1a\">Contact Us</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#fbd2c8"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#fac2b5"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mft-3-logo-png-192x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Natalie Montenegro Marriage and Family Therapy, Inc.",
+              "link": "#top",
+              "title": "MontenegroMFT",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html#header4-4\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MontenegroMFT</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-2f"
+        }
+      ]
+    }
+  }
+}
